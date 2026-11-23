@@ -13,5 +13,5 @@
 # Put
 <img width="959" height="539" alt="Cuplikan layar 2026-11-23 124714" src="https://github.com/user-attachments/assets/edda505f-d4fb-43e3-a740-2e76e1c1d101" />
 
-# Delet
+# Delete
 <img width="959" height="539" alt="Cuplikan layar 2026-11-23 124740" src="https://github.com/user-attachments/assets/3a2b906f-3ab3-4f72-9fa8-b7ef9d0a8c9b" />
